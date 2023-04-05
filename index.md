@@ -1,7 +1,7 @@
 ![alt text](markdown/touxiang.jpg)
 
 # **This is Changming Liu's Page**
-**a**
+a
 ## my motto is 
 >"Just do it."
 
